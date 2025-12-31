@@ -1,4 +1,4 @@
-**# Password-Protection-Privacy-Project-js-php-
+# Password-Protection-Privacy-Project-js-php-
 # 🔐 Secure Login System (JS + PHP)
 
 A simple and secure authentication project focused on **user privacy** and **password protection**.
@@ -46,5 +46,4 @@ Ideal for:
 🔒 *Security starts before data reaches the server.*
 
 #JavaScript #PHP #WebDevelopment #WebSecurity #UserPrivacy #SecureLogin
-##👨‍💻 Developed by Soumyajit Sasmal | © 31 December 2025📅
-**
+## 👨‍💻 Developed by Soumyajit Sasmal | © 31 December 2025📅
