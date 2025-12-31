@@ -22,9 +22,9 @@ User data is sensitive. This project shows a **basic but effective approach** to
 
 ## ✨ Project Line
 
-> "User data deserves protection at every step."
-> “Security starts before data reaches the server.”
-> “Encrypt first, store safe, protect users.”
+> "User data deserves protection at every step."   <br>
+> “Security starts before data reaches the server.” <br>
+> “Encrypt first, store safe, protect users.” <br>
 
 ## 🧰 Technologies Used
 
